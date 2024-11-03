@@ -1,4 +1,8 @@
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+![Print da Calculadora](https://github.com/gabi-felice-dev/ReactNative---Calculadora/blob/fc504a48d5a0770b75d0948173adb1215d3bc67e/PrintCalculadora.png?raw=true)
+
 
 # Getting Started
 
